@@ -17,8 +17,8 @@ I think you might mean *everybody* instead of "guys" :simple_smile:
 I think you might mean *folk* instead of "guys" :simple_smile:
 I think you might mean *fellow humans* instead of "guys" :simple_smile:
 Have you considered a more gender-neutral pronoun like *team*?  
-Have you considered using a different pronoun instead of *guys*? Because many here (including me) aren't guys?  
-
+Have you considered using a different pronoun instead of *guys*? Because many in the community (including me) aren't guys?  
+Some people in the community find "guys" alienating, why not try "lovely humans"?
 
 
 # When someone says
@@ -40,4 +40,5 @@ I think you might mean *everybody* instead of "gals" :simple_smile:
 I think you might mean *folk* instead of "gals" :simple_smile:
 I think you might mean *fellow humans* instead of "gals" :simple_smile:
 Have you considered a more gender-neutral pronoun like *team*?  
-Have you considered using a different pronoun instead of *gals*? Because many here (including me) aren't gals?
+Have you considered using a different pronoun instead of *gals*? Because many in the community (including me) aren't gals?
+Some people in the community find "gals" alienating, why not try "lovely humans"?
