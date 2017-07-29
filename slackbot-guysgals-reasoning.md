@@ -1,4 +1,4 @@
-#Why the Auto Response?
+# Why the Auto Response?
 
 The ZATech community has some people who feel excluded by certain words. In particular there was a point raised in #diversity about the word `guys`.
 
@@ -7,14 +7,14 @@ That's not the MAIN reason why the slackbot auto response exists though. There's
 We want to be a loving and inclusive community, and we know that the community is made up of the individuals. Thus if the individuals are made more aware of how better to be inclusive to the group, the community as a whole becomes more inclusive.
 
 
-#What we're not trying to do
+# What we're not trying to do
 
 This is NOT about policing language or stopping freedom of speech.
 It's about getting people to be a little bit more aware of the language they use and the implications thereof
 
 
 
-#I don't agree with this, what now?
+# I don't agree with this, what now?
 
 Please don't feel excluded or shamed, there's been a huge amount of discussion on several channels about diversity, this slackbot and general inclusivity.
 If you want to change something about how it works, be that a copy change or anything, we really do welcome suggestions to refine the bot and are very open about it's flaws, limitations and aggravations. It is slightly limited at the moment (it's not a custom bot, simply an auto-responder).
@@ -27,5 +27,6 @@ Some relevant channels to look at include:
 * `#asktheadmins` - Want to ask the admins a question but not sure who they are or what's going on, this is the place
 
 
-#More Reading / Related Links
+# More Reading / Related Links
+
 [The First Rule of DevOps Club](http://bridgetkromhout.com/blog/2014/11/03/the-first-rule-of-devops-club/)
