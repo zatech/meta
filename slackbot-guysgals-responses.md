@@ -5,19 +5,19 @@ you guys, these guys, my guys, those guys, hey guys, hi guys, the guys, these gu
 
 # Slackbot responds
 
-I think you might mean *team* instead of "guys" :simple_smile:
+I think you might mean *team* instead of "guys" :simple_smile: http://bit.ly/2uJCn3y
 I think you might mean *all* instead of "guys" :simple_smile:
-I think you might mean *pals* instead of "guys" :simple_smile:
-I think you might mean *gang* instead of "guys" :simple_smile:
-I think you might mean *crew* instead of "guys" :simple_smile:
+I think you might mean *pals* instead of "guys" :simple_smile: http://bit.ly/2uJCn3y
+I think you might mean *gang* instead of "guys" :simple_smile: 
+I think you might mean *crew* instead of "guys" :simple_smile: http://bit.ly/2uJCn3y
 I think you might mean *people* instead of "guys" :simple_smile:
-I think you might mean *y'all* instead of "guys" :simple_smile:
+I think you might mean *y'all* instead of "guys" :simple_smile: http://bit.ly/2uJCn3y
 I think you might mean *everyone* instead of "guys" :simple_smile:
-I think you might mean *everybody* instead of "guys" :simple_smile:
+I think you might mean *everybody* instead of "guys" :simple_smile:  http://bit.ly/2uJCn3y
 I think you might mean *folk* instead of "guys" :simple_smile:
-I think you might mean *fellow humans* instead of "guys" :simple_smile:
+I think you might mean *fellow humans* instead of "guys" :simple_smile: http://bit.ly/2uJCn3y
 Have you considered a more gender-neutral pronoun like *team*?  
-Have you considered using a different pronoun instead of *guys*? Because many in the community (including me) aren't guys?  
+Have you considered using a different pronoun instead of *guys*? Because many in the community (including me) aren't guys? http://bit.ly/2uJCn3y
 Some people in the community find "guys" alienating, why not try "lovely humans"?
 
 
@@ -28,17 +28,18 @@ you gals, these gals, my gals, those gals, hey gals, hi gals, the gals, these ga
 
 # Slackbot responds
 
-I think you might mean *team* instead of "gals" :simple_smile:
+I think you might mean *team* instead of "gals" :simple_smile: http://bit.ly/2uJCn3y
 I think you might mean *all* instead of "gals" :simple_smile:
-I think you might mean *pals* instead of "gals" :simple_smile:
+I think you might mean *pals* instead of "gals" :simple_smile: http://bit.ly/2uJCn3y
 I think you might mean *gang* instead of "gals" :simple_smile:
-I think you might mean *crew* instead of "gals" :simple_smile:
+I think you might mean *crew* instead of "gals" :simple_smile: http://bit.ly/2uJCn3y
 I think you might mean *people* instead of "gals" :simple_smile:
-I think you might mean *y'all* instead of "gals" :simple_smile:
+I think you might mean *y'all* instead of "gals" :simple_smile: http://bit.ly/2uJCn3y
 I think you might mean *everyone* instead of "gals" :simple_smile:
-I think you might mean *everybody* instead of "gals" :simple_smile:
+I think you might mean *everybody* instead of "gals" :simple_smile: http://bit.ly/2uJCn3y
 I think you might mean *folk* instead of "gals" :simple_smile:
-I think you might mean *fellow humans* instead of "gals" :simple_smile:
+I think you might mean *fellow humans* instead of "gals" :simple_smile: http://bit.ly/2uJCn3y
 Have you considered a more gender-neutral pronoun like *team*?  
-Have you considered using a different pronoun instead of *gals*? Because many in the community (including me) aren't gals?
+Have you considered using a different pronoun instead of *gals*? Because many in the community (including me) aren't gals? http://bit.ly/2uJCn3y
 Some people in the community find "gals" alienating, why not try "lovely humans"?
+
