@@ -25,3 +25,7 @@ Some relevant channels to look at include:
 * `#others` - Stories, advice and sympathy on being an "other" in tech
 * `#codeofconduct` - Chatting about the ZATech CoC - https://github.com/zatech/code-of-conduct
 * `#asktheadmins` - Want to ask the admins a question but not sure who they are or what's going on, this is the place
+
+
+#More Reading / Related Links
+[The First Rule of DevOps Club](http://bridgetkromhout.com/blog/2014/11/03/the-first-rule-of-devops-club/)
