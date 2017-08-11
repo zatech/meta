@@ -5,20 +5,7 @@ you guys, these guys, my guys, those guys, hey guys, hi guys, the guys, these gu
 
 # Slackbot responds
 
-I think you might mean *team* instead of "guys" :simple_smile:
-I think you might mean *all* instead of "guys" :simple_smile:
-I think you might mean *pals* instead of "guys" :simple_smile:
-I think you might mean *gang* instead of "guys" :simple_smile:
-I think you might mean *crew* instead of "guys" :simple_smile:
-I think you might mean *people* instead of "guys" :simple_smile:
-I think you might mean *y'all* instead of "guys" :simple_smile:
-I think you might mean *everyone* instead of "guys" :simple_smile:
-I think you might mean *everybody* instead of "guys" :simple_smile:
-I think you might mean *folk* instead of "guys" :simple_smile:
-I think you might mean *fellow humans* instead of "guys" :simple_smile:
-Have you considered a more gender-neutral pronoun like *team*?  
-Have you considered using a different pronoun instead of *guys*? Because many in the community (including me) aren't guys?  
-Some people in the community find "guys" alienating, why not try "lovely humans"?
+You have used a term (guys) that some people in the community do not find inclusionary enough. Please use the gender-neutral term <> in future.
 
 
 # When someone says
