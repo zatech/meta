@@ -10,9 +10,7 @@ We want to be a loving and inclusive community, and we know that the community i
 # What we're not trying to do
 
 This is NOT about policing language or stopping freedom of speech.
-It's about getting people to be a little bit more aware of the language they use and the implications thereof
-
-
+It's about getting people to be a little bit more aware of the language they use and the implications thereof.
 
 # I don't agree with this, what now?
 
@@ -26,6 +24,10 @@ Some relevant channels to look at include:
 * `#codeofconduct` - Chatting about the ZATech CoC - https://github.com/zatech/code-of-conduct
 * `#asktheadmins` - Want to ask the admins a question but not sure who they are or what's going on, this is the place
 
+# Some frequently asked questions 
+
+* **Isn't it gender neutral in its plural form?** Maybe in certain situations, but which situations those are is ambiguous, [here's an unscientific survey](https://jvns.ca/blog/2013/12/27/guys-guys-guys/) that shows that not everyone agrees if you find a better survey, please post it for discussion in the groups above. What is for certain is that there are members of our community that do not think it is gender neutral. 
+* **Why is the bot so bad? Why doesn't it DM the user, or x, or y?** The bot exists as it currently exists because it is what is possible with the automated responses. If you know of ways to improve it, please do. `#meta-guys-response` is a good place to discuss improvements to the bot.
 
 # More Reading / Related Links
 
