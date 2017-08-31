@@ -9,7 +9,6 @@ Some people in the community find "guys" alienating, next time would you conside
 Some people in the community find "guys" alienating, next time would you consider *all*? :simple_smile: (Learn more: http://bit.ly/2uJCn3y)
 Some people in the community find "guys" alienating, next time would you consider *y'all*? :simple_smile: (Learn more: http://bit.ly/2uJCn3y)
 Some people in the community find "guys" alienating, next time would you consider *everyone*? :simple_smile: (Learn more: http://bit.ly/2uJCn3y)
-Some people in the community find "guys" alienating, next time would you consider *folks*? :simple_smile: (Learn more: http://bit.ly/2uJCn3y)
 
 
 # When someone says
@@ -22,4 +21,3 @@ Some people in the community find "gals" alienating, next time would you conside
 Some people in the community find "gals" alienating, next time would you consider *all*? :simple_smile: (Learn more: http://bit.ly/2uJCn3y)
 Some people in the community find "gals" alienating, next time would you consider *y'all*? :simple_smile: (Learn more: http://bit.ly/2uJCn3y)
 Some people in the community find "gals" alienating, next time would you consider *everyone*? :simple_smile: (Learn more: http://bit.ly/2uJCn3y)
-Some people in the community find "gals" alienating, next time would you consider *folks*? :simple_smile: (Learn more: http://bit.ly/2uJCn3y)
