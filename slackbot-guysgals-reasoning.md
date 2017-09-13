@@ -1,34 +1,30 @@
 # Why the Auto Response?
 
-Certain words can make people in the community feel excluded. In particular there was a point raised in #diversity about the word `guys`. 
+Some words have multiple meanings and can be interpreted by members of the community as intentionally excluding them. In particular there was a point raised in #diversity about the word `guys` which can mean `males` or it can mean `people of any gender` depending on the context.
 
-That's not the MAIN reason why the slackbot auto response exists though. There's a bigger purpose. The purpose is to try and get people to be more aware about the language they use and to try and be more inclusive towards other humans. Regardless of Class, Race, Gender, Sex or other divides that humans love putting up.
+The only reason this bot exists is to make people think twice about what they are saying just in-case they are excluding members of the community. As long as you are respectful of all people irrespective of their class, race, gender, sex, disabilities, or any other attributes - everyone wins.
 
-We want to be a loving and inclusive community, and we know that the community is made up of the individuals. Thus if the individuals are made more aware of how better to be inclusive to the group, the community as a whole becomes more inclusive.
-While you may not use the word in that way, or intend to exclude anyone with your language, people in this community (and the larger tech community in general, not to mention other communities) find it othering.
+We want to be a loving and inclusive community, and we know that this community is made up of many individuals. Thus if the individuals are conscientious of how their words affect people, the community as a whole grows stronger.
 
 # What we're not trying to do
 
-This is NOT about policing language or stopping freedom of speech.
-It's about getting people to be a little bit more aware of the language they use and the implications of that language.
+The bot is not policing your language or stopping freedom of speech. You are welcome to say whatever you like whenever you like. You'll only get banned if you're a dick to other people. This bot is about getting people to be a little bit more aware of the language they use and how the thousands of different community members might interpret it.
 
 # I don't agree with this, what now?
 
-Please don't feel excluded or shamed, there's been a huge amount of discussion on several channels about diversity, this slackbot and general inclusivity.
-If you want to change something about how it works, be that a copy change or anything, we really do welcome suggestions to refine the bot and are very open about its flaws, limitations and aggravations. It is slightly limited at the moment (it's not a custom bot, simply an auto-responder).
+Unfortunately, the limitations of this bot only allow for copy changes at present. If you wish to you can code a better bot and hope that the admins will like it. Otherwise, just try to ignore it. It's REALLY not worth debating it.
 
 Some relevant channels to look at include:
-* `#meta-guys-response` - for talking about this specific slackbot. Please keep all discussion relevant to the bot in this channel
-* `#diversity` - Discussion of ways and means of ensuring that groups of people that are under-represented in tech (gender, ethnicity, sexual orientation, ability, and class) do not feel excluded and are given every possible opportunity to be part of the community
-* `#others` - Stories, advice and sympathy on being an "other" in tech
-* `#codeofconduct` - Chatting about the ZATech [Code of Conduct](https://github.com/zatech/code-of-conduct)
-* `#asktheadmins` - Want to ask the admins a question but not sure who they are or what's going on, this is the place
+* `#meta-guys-response` - for talking about this specific slackbot.
+* `#diversity` - Discussion of ways and means of ensuring that groups of people that are under-represented in tech do not feel excluded and are given equal opportunity to be a part of the community.
+* `#others` - Stories, advice and sympathy on being an "other" in tech.
+* `#codeofconduct` - Chatting about the ZATech [Code of Conduct](https://github.com/zatech/code-of-conduct).
+* `#asktheadmins` - Want to ask the admins a question but not sure who they are or what's going on, this is the place.
 
 # Some frequently asked questions 
 
-* **Isn't it gender neutral in its plural form?** Maybe in certain situations, but which situations those are is ambiguous, [here's an unscientific survey](https://jvns.ca/blog/2013/12/27/guys-guys-guys/) that shows that not everyone agrees. If you find a better survey, please post it for discussion in the groups above. What is for certain is that there are members of our community that do not think it is gender neutral. 
-The dictionary definition is not what we're arguing over, but how it makes people feel.
-* **Why is the bot so bad? Why doesn't it DM the user, or x, or y?** The bot exists as it currently exists because it is what is possible with the automated responses. If you know of ways to improve it, please do. `#meta-guys-response` is a good place to discuss improvements to the bot.
+* **Isn't `guys` gender neutral?** Yes, in some contexts, but not everyone agrees 100% of the time, [here's an unscientific survey](https://jvns.ca/blog/2013/12/27/guys-guys-guys/) that shows that there is some ambiguity in the meaning of the word. If you find a better survey, please post it for discussion in the groups above. What is for sure is that some members of our community don't agree that `guys` can ever be used in a gender-neutral way. 
+* **Why is the bot so bad? Why doesn't it DM the user, or x, or y?** The bot exists as it currently exists because it is what is possible with the automated responses. We know it sucks, but if you can code a better bot, please do. `#meta-guys-response` is a good place to propose a better solution.
 
 # More Reading / Related Links
 
