@@ -23,7 +23,7 @@ Some relevant channels to look at include:
 
 # Some frequently asked questions 
 
-* **Isn't `guys` gender neutral?** Yes, in some contexts, but not everyone agrees 100% of the time, [here's an unscientific survey](https://jvns.ca/blog/2013/12/27/guys-guys-guys/) that shows that there is some ambiguity in the meaning of the word. If you find a better survey, please post it for discussion in the groups above. What is for sure is that some members of our community don't agree that `guys` can ever be used in a gender-neutral way. 
+* **Isn't `guys` gender neutral?** Yes, in some contexts, but not everyone agrees 100% of the time, [here's an unscientific survey](https://jvns.ca/blog/2013/12/27/guys-guys-guys/) that shows that there is some ambiguity in the interpretation of the word. If you find a better survey, please post it for discussion in the groups above. What is for sure is that some members of our community don't agree that `guys` can ever be used in a gender-neutral way. 
 * **Why is the bot so bad? Why doesn't it DM the user, or x, or y?** The bot exists as it currently exists because it is what is possible with the automated responses. We know it sucks, but if you can code a better bot, please do. `#meta-guys-response` is a good place to propose a better solution.
 
 # More Reading / Related Links
