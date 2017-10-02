@@ -8,7 +8,7 @@ We want to be a loving and inclusive community, and we know that this community 
 
 # What we're not trying to do
 
-The bot is not policing your language or stopping freedom of speech. You are welcome to say whatever you like whenever you like. You'll only get banned if you're a dick to other people. This bot is about getting people to be a little bit more aware of the language they use and how the thousands of different community members might interpret it.
+The bot is not policing your language or stopping freedom of speech. You are welcome to say whatever you like whenever you like. You'll only get banned for misconduct. This bot is about getting people to be a little bit more aware of the language they use and how the thousands of different community members might interpret it.
 
 # I don't agree with this, what now?
 
