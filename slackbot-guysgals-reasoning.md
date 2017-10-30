@@ -20,7 +20,7 @@ If you want to change something about how it works, be that a copy change or any
 Some relevant channels to look at include:
 * `#meta-guys-response` - for talking about this specific slackbot. Please keep all discussion relevant to the bot in this channel
 * `#diversity` - Discussion of ways and means of ensuring that groups of people that are under-represented in tech (gender, ethnicity, sexual orientation, ability, and class) do not feel excluded and are given every possible opportunity to be part of the community
-* `#others` - Stories, advice and sympathy on being an "other" in tech
+* `#learn-social-issues` - Discussion and education about social issues in tech
 * `#codeofconduct` - Chatting about the ZATech [Code of Conduct](https://github.com/zatech/code-of-conduct)
 * `#asktheadmins` - Want to ask the admins a question but not sure who they are or what's going on, this is the place
 
