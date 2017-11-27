@@ -13,7 +13,7 @@ Some people in the community find "guys" alienating, next time would you conside
 
 # When someone says
 
-you gals, these gals, my gals, those gals, hey gals, hi gals, the gals, these gals, thanks gals, galz
+you gals, these gals, my gals, those gals, hey gals, hi gals, the gals, these gals, thanks gals, galz, your gals, your galz
 
 
 # Slackbot responds
