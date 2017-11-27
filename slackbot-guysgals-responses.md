@@ -1,6 +1,6 @@
 # When someone says
 
-you guys, these guys, my guys, those guys, hey guys, hi guys, the guys, these guys, thanks guys, guyz
+you guys, these guys, my guys, those guys, hey guys, hi guys, the guys, these guys, thanks guys, guyz, your guys, your guyz
 
 
 # Slackbot responds
