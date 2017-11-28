@@ -1,6 +1,6 @@
 # When someone says
 
-you guys, these guys, my guys, those guys, hey guys, hi guys, the guys, these guys, thanks guys, your guys
+you guys, these guys, my guys, those guys, hey guys, hi guys, the guys, these guys, thanks guys, guyz, your guys
 
 
 # Slackbot responds
@@ -13,7 +13,7 @@ Some people in the community find "guys" alienating, next time would you conside
 
 # When someone says
 
-you gals, these gals, my gals, those gals, hey gals, hi gals, the gals, these gals, thanks gals, your gals
+you gals, these gals, my gals, those gals, hey gals, hi gals, the gals, these gals, thanks gals, galz, your gals
 
 
 # Slackbot responds
