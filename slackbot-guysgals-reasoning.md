@@ -1,5 +1,11 @@
 # Why the Auto Response?
 
+## Short version
+
+[“Hey guys” is a common salutation, but it’s not gender neutral. People who aren’t men can feel excluded when addressed as “guys,” even if that is not the intent. (heyguys.cc)](https://heyguys.cc/)
+
+## Longer version
+
 Certain words can make people in the community feel excluded. In particular there was a point raised in #diversity about the word `guys`. 
 
 That's not the MAIN reason why the slackbot auto response exists though. There's a bigger purpose. The purpose is to try and get people to be more aware about the language they use and to try and be more inclusive towards other humans. Regardless of Class, Race, Gender, Sex or other divides that humans love putting up.
@@ -32,4 +38,5 @@ The dictionary definition is not what we're arguing over, but how it makes peopl
 
 # More Reading / Related Links
 
-[The First Rule of DevOps Club](http://bridgetkromhout.com/blog/2014/11/03/the-first-rule-of-devops-club/)
+* [heyguys.cc: Further reading](https://heyguys.cc/sources/)
+* [The First Rule of DevOps Club](https://bridgetkromhout.com/blog/the-first-rule-of-devops-club/) (Bridget Kromhout)
