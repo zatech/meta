@@ -1,1 +1,172 @@
-{"source_id":"276618088978331310","version":"1","workflow":{"name":"Jobpostings Bot","blueprint":{"version":"1","trigger":{"type":"channel_action","id":"424270b5-094d-4566-a304-b352c7d907e7","config":{"name":"Post a Job","channels":["C1RAZB24S"],"callback_id":"d0be5d22-2a40-41f5-8f90-c07622adda02","description":"Post a Job"}},"steps":[{"type":"dialog","id":"6dd7eb07-cb63-4ee7-ab0b-ff66b6558605","config":{"dialog_title":"Jobposting","dialog_elements":[{"name":"6b4eabc7-b763-4793-a31e-8ee8d1d6554d","type":"select","label":"Recruitment","options":[{"label":"I am not a recruiter! https://github.com/zatech/code-of-conduct","value":"I am not a recruiter! https://github.com/zatech/code-of-conduct"}],"optional":false,"data_source":"static"},{"name":"6960dffd-779d-4b84-a6ee-bea523e3ee80","type":"text","label":"Company Name","subtype":"","optional":false,"placeholder":""},{"name":"a3bc14c5-e47e-4edc-8825-59ce44fe570c","type":"text","label":"Location","subtype":"","optional":false,"placeholder":""},{"name":"6b7ec85b-261a-4843-b10b-cb14adeb1318","type":"select","label":"Fulltime?","options":[{"label":"Yes","value":"Yes"}],"optional":false,"data_source":"static"},{"name":"1e7231f6-352f-48c9-806b-e53bee484691","type":"select","label":"Remote Friendly","value":"No","options":[{"label":"No","value":"No"},{"label":"1 day a week","value":"1 day a week"},{"label":"2 days a week","value":"2 days a week"},{"label":"3 days a week","value":"3 days a week"},{"label":"4 days a week","value":"4 days a week"},{"label":"Fully Remote","value":"Fully Remote"},{"label":"After inital period, fully remote","value":"After inital period, fully remote"},{"label":"Other","value":"Other"}],"optional":false,"data_source":"static"},{"name":"d0e35551-b4b2-4363-ba57-93e1995d9c79","type":"text","label":"Salary or Salary Range","subtype":"","optional":false,"placeholder":""},{"name":"5b944ac2-66b3-4e41-b036-0a9f9160f5a6","type":"textarea","label":"Job Description","optional":false},{"name":"90ba754d-61e7-4455-bde4-4c78ee946102","type":"text","label":"Link to Company Website / Job posting","subtype":"","optional":true,"placeholder":""},{"name":"4d82930f-ae39-4ed5-86b0-d562ecd6a688","type":"text","label":"Contact Person","subtype":"","optional":true,"placeholder":""}],"dialog_submit_label":"","delivery_button_label":"Open Form","delivery_message_text":"Hello! To get started, please fill out this form."}},{"type":"message","id":"407c1bfa-dc44-43b1-9221-e2c35c0bd6e9","config":{"channel":{"value":"C1RAZB24S"},"has_button":false,"message_text":":open_file_folder: New Jobposting Submission from {{424270b5-094d-4566-a304-b352c7d907e7==user}}\n\n:city_sunset: *Company Name*: {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==6960dffd-779d-4b84-a6ee-bea523e3ee80==text}}\n\n:world_map: *Location:* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==a3bc14c5-e47e-4edc-8825-59ce44fe570c==text}}\n\n:walking: *Remote Friendly:* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==1e7231f6-352f-48c9-806b-e53bee484691==text}}\n\n:moneybag: *Salary Info:* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==d0e35551-b4b2-4363-ba57-93e1995d9c79==text}}\n\n:nerd_face: *Contact Person:* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==4d82930f-ae39-4ed5-86b0-d562ecd6a688==text}}\n\n:desktop_computer: *Job Description:*\n{{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==5b944ac2-66b3-4e41-b036-0a9f9160f5a6==text}}\n\n\n:link: *Additional Link:* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==90ba754d-61e7-4455-bde4-4c78ee946102==text}}"}},{"type":"message","id":"a83eaf4c-a8c7-4043-a67d-798fd134ebdd","config":{"user":{"ref":"424270b5-094d-4566-a304-b352c7d907e7==user"},"has_button":false,"message_text":"Hi\nYour Jobposting has been sent to <#C1RAZB24S|jobpostings>!\n\nThanks so much for using your friendly Jobpostings Bot"}}]}}}
+{
+  "source_id": "276618088978331310",
+  "version": "1",
+  "workflow": {
+    "name": "Jobpostings Bot",
+    "blueprint": {
+      "version": "1",
+      "trigger": {
+        "type": "channel_action",
+        "id": "424270b5-094d-4566-a304-b352c7d907e7",
+        "config": {
+          "name": "Post a Job",
+          "channels": [
+            "C1RAZB24S"
+          ],
+          "callback_id": "d0be5d22-2a40-41f5-8f90-c07622adda02",
+          "description": "Post a Job"
+        }
+      },
+      "steps": [
+        {
+          "type": "dialog",
+          "id": "6dd7eb07-cb63-4ee7-ab0b-ff66b6558605",
+          "config": {
+            "dialog_title": "Jobposting",
+            "dialog_elements": [
+              {
+                "name": "6b4eabc7-b763-4793-a31e-8ee8d1d6554d",
+                "type": "select",
+                "label": "Recruitment",
+                "options": [
+                  {
+                    "label": "I am not a recruiter! https:\/\/github.com\/zatech\/code-of-conduct",
+                    "value": "I am not a recruiter! https:\/\/github.com\/zatech\/code-of-conduct"
+                  }
+                ],
+                "optional": false,
+                "data_source": "static"
+              },
+              {
+                "name": "6960dffd-779d-4b84-a6ee-bea523e3ee80",
+                "type": "text",
+                "label": "Company Name",
+                "subtype": "",
+                "optional": false,
+                "placeholder": ""
+              },
+              {
+                "name": "a3bc14c5-e47e-4edc-8825-59ce44fe570c",
+                "type": "text",
+                "label": "Location",
+                "subtype": "",
+                "optional": false,
+                "placeholder": ""
+              },
+              {
+                "name": "6b7ec85b-261a-4843-b10b-cb14adeb1318",
+                "type": "select",
+                "label": "Fulltime?",
+                "options": [
+                  {
+                    "label": "Yes",
+                    "value": "Yes"
+                  }
+                ],
+                "optional": false,
+                "data_source": "static"
+              },
+              {
+                "name": "1e7231f6-352f-48c9-806b-e53bee484691",
+                "type": "select",
+                "label": "Remote Friendly",
+                "value": "No",
+                "options": [
+                  {
+                    "label": "No",
+                    "value": "No"
+                  },
+                  {
+                    "label": "1 day a week",
+                    "value": "1 day a week"
+                  },
+                  {
+                    "label": "2 days a week",
+                    "value": "2 days a week"
+                  },
+                  {
+                    "label": "3 days a week",
+                    "value": "3 days a week"
+                  },
+                  {
+                    "label": "4 days a week",
+                    "value": "4 days a week"
+                  },
+                  {
+                    "label": "Fully Remote",
+                    "value": "Fully Remote"
+                  },
+                  {
+                    "label": "After inital period, fully remote",
+                    "value": "After inital period, fully remote"
+                  },
+                  {
+                    "label": "Other",
+                    "value": "Other"
+                  }
+                ],
+                "optional": false,
+                "data_source": "static"
+              },
+              {
+                "name": "d0e35551-b4b2-4363-ba57-93e1995d9c79",
+                "type": "text",
+                "label": "Salary or Salary Range",
+                "subtype": "",
+                "optional": false,
+                "placeholder": ""
+              },
+              {
+                "name": "5b944ac2-66b3-4e41-b036-0a9f9160f5a6",
+                "type": "textarea",
+                "label": "Job Description",
+                "optional": false
+              },
+              {
+                "name": "90ba754d-61e7-4455-bde4-4c78ee946102",
+                "type": "text",
+                "label": "Link to Company Website \/ Job posting",
+                "subtype": "",
+                "optional": true,
+                "placeholder": ""
+              },
+              {
+                "name": "4d82930f-ae39-4ed5-86b0-d562ecd6a688",
+                "type": "text",
+                "label": "Contact Person",
+                "subtype": "",
+                "optional": true,
+                "placeholder": ""
+              }
+            ],
+            "dialog_submit_label": "",
+            "delivery_button_label": "Open Form",
+            "delivery_message_text": "Hello! To get started, please fill out this form."
+          }
+        },
+        {
+          "type": "message",
+          "id": "407c1bfa-dc44-43b1-9221-e2c35c0bd6e9",
+          "config": {
+            "channel": {
+              "value": "C1RAZB24S"
+            },
+            "has_button": false,
+            "message_text": ":open_file_folder: New Jobposting Submission from {{424270b5-094d-4566-a304-b352c7d907e7==user}}\n\n:city_sunset: *Company Name*: {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==6960dffd-779d-4b84-a6ee-bea523e3ee80==text}}\n\n:world_map: *Location:* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==a3bc14c5-e47e-4edc-8825-59ce44fe570c==text}}\n\n:walking: *Remote Friendly:* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==1e7231f6-352f-48c9-806b-e53bee484691==text}}\n\n:moneybag: *Salary Info:* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==d0e35551-b4b2-4363-ba57-93e1995d9c79==text}}\n\n:nerd_face: *Contact Person:* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==4d82930f-ae39-4ed5-86b0-d562ecd6a688==text}}\n\n:desktop_computer: *Job Description:*\n{{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==5b944ac2-66b3-4e41-b036-0a9f9160f5a6==text}}\n\n\n:link: *Additional Link:* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==90ba754d-61e7-4455-bde4-4c78ee946102==text}}"
+          }
+        },
+        {
+          "type": "message",
+          "id": "a83eaf4c-a8c7-4043-a67d-798fd134ebdd",
+          "config": {
+            "user": {
+              "ref": "424270b5-094d-4566-a304-b352c7d907e7==user"
+            },
+            "has_button": false,
+            "message_text": "Hi\nYour Jobposting has been sent to <#C1RAZB24S|jobpostings>!\n\nThanks so much for using your friendly Jobpostings Bot"
+          }
+        }
+      ]
+    }
+  }
+}

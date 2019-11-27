@@ -1,1 +1,128 @@
-{"source_id":"276623013359663014","version":"1","workflow":{"name":"Announcements Bot","blueprint":{"version":"1","trigger":{"type":"channel_action","id":"424270b5-094d-4566-a304-b352c7d907e7","config":{"name":"Announce your Event","channels":["C03A23LKH"],"callback_id":"f22056cb-8409-461e-8fa3-d3205abea3ea","description":"Announce your Event"}},"steps":[{"type":"dialog","id":"6dd7eb07-cb63-4ee7-ab0b-ff66b6558605","config":{"dialog_title":"Announce your Event","dialog_elements":[{"name":"6960dffd-779d-4b84-a6ee-bea523e3ee80","type":"select","label":"What channel is relevant to this?","optional":false,"data_source":"channels"},{"name":"1e7231f6-352f-48c9-806b-e53bee484691","type":"text","label":"Title","subtype":"","optional":false,"placeholder":""},{"name":"5b944ac2-66b3-4e41-b036-0a9f9160f5a6","type":"text","label":"Description","subtype":"","optional":false,"placeholder":""},{"name":"4d82930f-ae39-4ed5-86b0-d562ecd6a688","type":"text","label":"Date & Time","subtype":"","optional":false,"placeholder":""},{"name":"d2caadab-cddb-4025-889b-1909d4bde382","type":"text","label":"Location","subtype":"","optional":false,"placeholder":""},{"name":"90ba754d-61e7-4455-bde4-4c78ee946102","type":"text","label":"Relevant Link","subtype":"","optional":false,"placeholder":""}],"dialog_submit_label":"","delivery_button_label":"Open Form","delivery_message_text":"Hello! To get started, please fill out this form."}},{"type":"message","id":"e88873c0-b45b-49ca-8f72-f206282a72de","config":{"user":{"ref":"424270b5-094d-4566-a304-b352c7d907e7==user"},"has_button":false,"message_text":"Your Event Announcement is currently busy being looked at by the admins and will be automatically posted to <#C03A23LKH|announcements> as soon as it's approved!"}},{"type":"message","id":"01df0ecf-4e71-48b3-b233-4e01160b082d","config":{"channel":{"value":"GQXK4CKS8"},"has_button":true,"button_label":"Approve","message_text":"via {{424270b5-094d-4566-a304-b352c7d907e7==user}} &amp; {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==6960dffd-779d-4b84-a6ee-bea523e3ee80==channel}}: *{{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==1e7231f6-352f-48c9-806b-e53bee484691==text}}* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==5b944ac2-66b3-4e41-b036-0a9f9160f5a6==text}}\non {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==4d82930f-ae39-4ed5-86b0-d562ecd6a688==text}} at {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==d2caadab-cddb-4025-889b-1909d4bde382==text}}\n{{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==90ba754d-61e7-4455-bde4-4c78ee946102==text}}"}},{"type":"message","id":"407c1bfa-dc44-43b1-9221-e2c35c0bd6e9","config":{"channel":{"value":"C03A23LKH"},"has_button":false,"message_text":"via {{424270b5-094d-4566-a304-b352c7d907e7==user}} &amp; {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==6960dffd-779d-4b84-a6ee-bea523e3ee80==channel}}: *{{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==1e7231f6-352f-48c9-806b-e53bee484691==text}}* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==5b944ac2-66b3-4e41-b036-0a9f9160f5a6==text}}\non {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==4d82930f-ae39-4ed5-86b0-d562ecd6a688==text}} at {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==d2caadab-cddb-4025-889b-1909d4bde382==text}}\n{{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==90ba754d-61e7-4455-bde4-4c78ee946102==text}}"}},{"type":"message","id":"89ed9f7e-1e8e-49e5-a05b-7fe46f23f637","config":{"user":{"ref":"424270b5-094d-4566-a304-b352c7d907e7==user"},"has_button":false,"message_text":"Hi, Just to let you know, your event announcement has been approved and posted!"}}]}}}
+{
+  "source_id": "276623013359663014",
+  "version": "1",
+  "workflow": {
+    "name": "Announcements Bot",
+    "blueprint": {
+      "version": "1",
+      "trigger": {
+        "type": "channel_action",
+        "id": "424270b5-094d-4566-a304-b352c7d907e7",
+        "config": {
+          "name": "Announce your Event",
+          "channels": [
+            "C03A23LKH"
+          ],
+          "callback_id": "f22056cb-8409-461e-8fa3-d3205abea3ea",
+          "description": "Announce your Event"
+        }
+      },
+      "steps": [
+        {
+          "type": "dialog",
+          "id": "6dd7eb07-cb63-4ee7-ab0b-ff66b6558605",
+          "config": {
+            "dialog_title": "Announce your Event",
+            "dialog_elements": [
+              {
+                "name": "6960dffd-779d-4b84-a6ee-bea523e3ee80",
+                "type": "select",
+                "label": "What channel is relevant to this?",
+                "optional": false,
+                "data_source": "channels"
+              },
+              {
+                "name": "1e7231f6-352f-48c9-806b-e53bee484691",
+                "type": "text",
+                "label": "Title",
+                "subtype": "",
+                "optional": false,
+                "placeholder": ""
+              },
+              {
+                "name": "5b944ac2-66b3-4e41-b036-0a9f9160f5a6",
+                "type": "text",
+                "label": "Description",
+                "subtype": "",
+                "optional": false,
+                "placeholder": ""
+              },
+              {
+                "name": "4d82930f-ae39-4ed5-86b0-d562ecd6a688",
+                "type": "text",
+                "label": "Date & Time",
+                "subtype": "",
+                "optional": false,
+                "placeholder": ""
+              },
+              {
+                "name": "d2caadab-cddb-4025-889b-1909d4bde382",
+                "type": "text",
+                "label": "Location",
+                "subtype": "",
+                "optional": false,
+                "placeholder": ""
+              },
+              {
+                "name": "90ba754d-61e7-4455-bde4-4c78ee946102",
+                "type": "text",
+                "label": "Relevant Link",
+                "subtype": "",
+                "optional": false,
+                "placeholder": ""
+              }
+            ],
+            "dialog_submit_label": "",
+            "delivery_button_label": "Open Form",
+            "delivery_message_text": "Hello! To get started, please fill out this form."
+          }
+        },
+        {
+          "type": "message",
+          "id": "e88873c0-b45b-49ca-8f72-f206282a72de",
+          "config": {
+            "user": {
+              "ref": "424270b5-094d-4566-a304-b352c7d907e7==user"
+            },
+            "has_button": false,
+            "message_text": "Your Event Announcement is currently busy being looked at by the admins and will be automatically posted to <#C03A23LKH|announcements> as soon as it's approved!"
+          }
+        },
+        {
+          "type": "message",
+          "id": "01df0ecf-4e71-48b3-b233-4e01160b082d",
+          "config": {
+            "channel": {
+              "value": "GQXK4CKS8"
+            },
+            "has_button": true,
+            "button_label": "Approve",
+            "message_text": "via {{424270b5-094d-4566-a304-b352c7d907e7==user}} &amp; {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==6960dffd-779d-4b84-a6ee-bea523e3ee80==channel}}: *{{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==1e7231f6-352f-48c9-806b-e53bee484691==text}}* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==5b944ac2-66b3-4e41-b036-0a9f9160f5a6==text}}\non {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==4d82930f-ae39-4ed5-86b0-d562ecd6a688==text}} at {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==d2caadab-cddb-4025-889b-1909d4bde382==text}}\n{{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==90ba754d-61e7-4455-bde4-4c78ee946102==text}}"
+          }
+        },
+        {
+          "type": "message",
+          "id": "407c1bfa-dc44-43b1-9221-e2c35c0bd6e9",
+          "config": {
+            "channel": {
+              "value": "C03A23LKH"
+            },
+            "has_button": false,
+            "message_text": "via {{424270b5-094d-4566-a304-b352c7d907e7==user}} &amp; {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==6960dffd-779d-4b84-a6ee-bea523e3ee80==channel}}: *{{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==1e7231f6-352f-48c9-806b-e53bee484691==text}}* {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==5b944ac2-66b3-4e41-b036-0a9f9160f5a6==text}}\non {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==4d82930f-ae39-4ed5-86b0-d562ecd6a688==text}} at {{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==d2caadab-cddb-4025-889b-1909d4bde382==text}}\n{{6dd7eb07-cb63-4ee7-ab0b-ff66b6558605==90ba754d-61e7-4455-bde4-4c78ee946102==text}}"
+          }
+        },
+        {
+          "type": "message",
+          "id": "89ed9f7e-1e8e-49e5-a05b-7fe46f23f637",
+          "config": {
+            "user": {
+              "ref": "424270b5-094d-4566-a304-b352c7d907e7==user"
+            },
+            "has_button": false,
+            "message_text": "Hi, Just to let you know, your event announcement has been approved and posted!"
+          }
+        }
+      ]
+    }
+  }
+}
