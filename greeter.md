@@ -4,6 +4,10 @@ Please take a minute to make sure you've read the Code of Conduct: https://githu
 
 If you'd like, introduce yourself in #introductions then see if there are any other communities you'd like to join.
 
-For #announcements requests and general queries you can message #asktheadmins.
+Channels of interest:
+#asktheadmins - If you have any questions or concerns, this is your place to ask
+#codeofconduct - If you want to know more about the CoC, here's where you can ask it
+
+If you want to post an announcement please use the *Action* (the lightning bolt on the top right of the channel)
 
 :v:
